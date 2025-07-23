@@ -1,0 +1,34 @@
+{
+  "resources/scss/app.scss": {
+    "file": "css/app.min.css",
+    "src": "resources/scss/app.scss",
+    "isEntry": true,
+    "names": [
+      "app.css"
+    ]
+  },
+  "resources/scss/bootstrap.scss": {
+    "file": "css/bootstrap.min.css",
+    "src": "resources/scss/bootstrap.scss",
+    "isEntry": true,
+    "names": [
+      "bootstrap.css"
+    ]
+  },
+  "resources/scss/custom.scss": {
+    "file": "css/custom.min.css",
+    "src": "resources/scss/custom.scss",
+    "isEntry": true,
+    "names": [
+      "custom.css"
+    ]
+  },
+  "resources/scss/icons.scss": {
+    "file": "css/icons.min.css",
+    "src": "resources/scss/icons.scss",
+    "isEntry": true,
+    "names": [
+      "icons.css"
+    ]
+  }
+}
